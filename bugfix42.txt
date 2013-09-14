@@ -1,1 +1,3 @@
 this file fixes THE bug with 42 as the solution
+some changes still needed to adapt 42
+
