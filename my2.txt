@@ -1,3 +1,4 @@
 Second file.
 changes to my2.txt
 more changes done here
+ok here's the bug4711 let's fix it...
